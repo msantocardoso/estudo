@@ -1,2 +1,2 @@
-estudo
+Projeto de Estudo
 ======
